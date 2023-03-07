@@ -25,6 +25,3 @@ def zindi_data_downloader(url, token, file_name):
         pbar.update(len(chunk))
     handle.close()
     pbar.close()
-
-
-    
