@@ -1,3 +1,4 @@
 *.csv
 *.log
 plantation_count.py
+__pycache__/
